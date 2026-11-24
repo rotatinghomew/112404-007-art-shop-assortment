@@ -2,3 +2,4 @@ product_id,design_id,format,price,first_sale,show_id,replacement_id
 P-01,D-A,poster-large,180,2027-02-01,SHOW-1,P-04
 P-02,D-A,postcard,18,2027-02-01,SHOW-1,
 P-03,D-B,notebook,52,2027-02-15,SHOW-1,
+P-04,D-C,poster-medium,120,2027-02-18,SHOW-1,
