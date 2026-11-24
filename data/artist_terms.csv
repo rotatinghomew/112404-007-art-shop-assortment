@@ -1,0 +1,4 @@
+term_id,artist_key,design_id,product_format,rate,valid_from,valid_to,basis
+AT-1,AR-1,D-A,poster-large,0.12,2027-01-01,2027-03-31,net-sale
+AT-2,AR-1,D-A,postcard,0.08,2027-01-01,2027-03-31,net-sale
+AT-3,AR-2,D-B,notebook,0.10,2027-02-01,2027-04-30,gross-sale

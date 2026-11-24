@@ -1,0 +1,4 @@
+event_id,product_id,location,event_date,event_type,quantity,batch_id
+ST-1,P-01,foyer,2027-02-01,received,80,PB-1
+ST-2,P-01,foyer,2027-02-13,stockout,0,PB-1
+ST-3,P-02,online,2027-02-20,transfer-out,12,PB-2

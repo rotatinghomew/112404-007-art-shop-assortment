@@ -1,0 +1,4 @@
+product_id,location,visible_from,visible_to,display_level,supplier,min_order,lead_days,unit_cost
+P-01,foyer,2027-02-01,2027-02-13,front,SUP-1,60,16,61
+P-02,online,2027-02-01,2027-03-15,standard,SUP-2,100,12,4
+P-03,gallery-exit,2027-02-15,2027-03-20,side,SUP-1,50,20,24

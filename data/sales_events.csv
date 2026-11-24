@@ -1,0 +1,4 @@
+event_id,product_id,location,event_date,event_type,quantity,order_ref
+SA-1,P-01,foyer,2027-02-08,sale,33,OR-1
+SA-2,P-02,online,2027-02-10,gift,20,EV-1
+SA-3,P-01,foyer,2027-02-24,return,2,OR-2
