@@ -1,0 +1,4 @@
+purchase_id,product_id,location,created_at,quantity,state,expected_date,received_quantity
+PO-1,P-01,foyer,2027-02-02,80,received,2027-02-10,80
+PO-2,P-01,foyer,2027-02-14,60,confirmed,2027-03-02,0
+PO-3,P-03,online,2027-02-18,50,proposed,2027-03-12,0
